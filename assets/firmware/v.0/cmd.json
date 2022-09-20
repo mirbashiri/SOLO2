@@ -1,0 +1,18 @@
+http://192.168.1.160/cmd
+{
+ "motorSpeed1":"150",
+ "motorSpeed2":"150",
+ "motorCTRL1":"1000",
+ "motorCTRL2":"1000",
+ "frontLED_ON":true
+}
+
+http://192.168.1.160/getDistance
+
+[
+    {
+        "distanceRight": 55.10295486,
+        "distanceLeft": 55.24015808
+    }
+]
+
