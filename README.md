@@ -2,10 +2,8 @@
 ## Open-source AI-Powered Tracked Robot Platform
 ## AI-Powered Tracked Robot Platform
 
-[text-to-highlight](actual-link){:target="\_blank"}
-
 - Lower level controller: ESP32 CAM [Buy](https://www.amazon.ca/CANADUINO-pcs-ESP32-CAM-Thinker-Bluetooth/dp/B07WZ4WCC6/ref=sr_1_7?crid=3DIZSMJEGZ3AJ&keywords=esp32+cam&qid=1663707951&sprefix=esp32+cam%2Caps%2C84&sr=8-7
-)
+){target="_blank"}
 - Upper level controler: Jetson Nano 2G/ Raspberry Pi 
 - Communication protocols(Upper/ Lower): WiFi/WebServer/JSON 
 - Computer Vision: [RealSense™ Depth Camera D455](https://www.intelrealsense.com/depth-camera-d455/)/ Raspberry Pi Camera Module
