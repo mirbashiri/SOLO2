@@ -1,7 +1,5 @@
 # SOLO2
-<<<<<<< HEAD
 ## Open-source AI-Powered Tracked Robot Platform
-=======
 ## AI-Powered Tracked Robot Platform
 
 - Lower level controller: ESP32D 4M
@@ -26,7 +24,6 @@
 - Maximum Speed:~ 90cm/s = 0.9m/s = 3km/h = 2mph
 
 [DOWNLOAD 3D FILES](/assets/stl)
->>>>>>> parent of c31a573... Update README.md
 
 **Dimension**
 ![This is an image](/assets/images/SOLO2_DIM.png)
