@@ -1,10 +1,11 @@
 # SOLO2
-<<<<<<< HEAD
 ## Open-source AI-Powered Tracked Robot Platform
-=======
 ## AI-Powered Tracked Robot Platform
 
-- Lower level controller: ESP32D 4M
+![SOLO2](assets/video.mp4)
+
+- Lower level controller: ESP32 CAM [Buy](https://www.amazon.ca/CANADUINO-pcs-ESP32-CAM-Thinker-Bluetooth/dp/B07WZ4WCC6/ref=sr_1_7?crid=3DIZSMJEGZ3AJ&keywords=esp32+cam&qid=1663707951&sprefix=esp32+cam%2Caps%2C84&sr=8-7
+)
 - Upper level controler: Jetson Nano 2G/ Raspberry Pi 
 - Communication protocols(Upper/ Lower): WiFi/WebServer/JSON 
 - Computer Vision: [RealSense™ Depth Camera D455](https://www.intelrealsense.com/depth-camera-d455/)/ Raspberry Pi Camera Module
@@ -26,7 +27,6 @@
 - Maximum Speed:~ 90cm/s = 0.9m/s = 3km/h = 2mph
 
 [DOWNLOAD 3D FILES](/assets/stl)
->>>>>>> parent of c31a573... Update README.md
 
 **Dimension**
 ![This is an image](/assets/images/SOLO2_DIM.png)
