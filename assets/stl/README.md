@@ -1,1 +1,1 @@
-![This is an image](../assets/images/info.png)
+![This is an image](../images/info.png)
